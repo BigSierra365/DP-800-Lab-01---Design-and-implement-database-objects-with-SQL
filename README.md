@@ -10,7 +10,7 @@ Creamos la base de datos `EcommerceDB` que usaremos durante todo el lab.
 
 ### 1.1. Ejecutamos `CREATE DATABASE EcommerceDB` y verificamos en el explorador de objetos que se había creado.
 
-!Evidencia
+![Evidencia de ejecución 1](images/1 Create a new database.png)
 
 ---
 
